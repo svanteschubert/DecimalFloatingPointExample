@@ -26,6 +26,8 @@ The example is based on work from the [Princeton University](https://introcs.cs.
 
 The green boxes are using decimal based floating point and the red boxes binary based floating point.
 
+**NOTE:** Most evident the last box, where adding three times 0,1 is not exactly 0,3.
+
 ## Run the example
 
 Call from a command-line in the root directory of the repository: "gradlew clean build"
