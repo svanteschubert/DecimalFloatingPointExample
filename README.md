@@ -21,7 +21,9 @@ Mike is maintaining [a very good FAQ on Decimal based floating point](http://spe
 ## Show & Tell
 
 The example is based on work from the [Princeton University](https://introcs.cs.princeton.edu/java/91float/Financial.java.html).
+
 ![Example output from command line](src/test/resources/example-cmdline-output.png)
+
 The green boxes are using decimal based floating point and the red boxes binary based floating point.
 
 ## Run the example
